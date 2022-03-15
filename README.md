@@ -2,4 +2,4 @@
 This is my first repo - EVER!
 
 
-hello i like coding
+Hello, I like coding!
